@@ -10,4 +10,15 @@ following certification exams:
 • SuiteFoundation
 
 
+# My Preparation strategy for  Application Developer Exam
+
+## Syllabus tracker:
+https://docs.google.com/spreadsheets/d/1Heysq_OKh6pvxNUXK9f2jPECPvCi8L26F8BTa-rzbf4/edit#gid=0
+
+## Documentation:
+https://docs.google.com/document/d/1G0YEgAlG-eOFwXoueg_wxNJuBbvROBERetcwSmyVfKk/edit
+
+
+
+
 
